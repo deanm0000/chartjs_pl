@@ -37,4 +37,7 @@ Right now there's a bar function with some options exposed but it already needs 
 1. Expose mixed graphs, (ie lines and bars on same chart)
 2. Incorporate animation as a dimension similar to [plotly](https://plotly.com/python/animations/)
 
+## Aspirational idea(s) aka need help to do these
 
+1. use mathbox.js for webgl 3d graphs (maybe this is new library)
+2. connect wasm polars to Python polars to prevent serialization
